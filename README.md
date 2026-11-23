@@ -6,12 +6,23 @@
 
 An Android calculator that remembers your work: every result is saved with an optional remark, and you can group calculations into projects with a budget to see what you've spent and what's left.
 
+[![Download APK](https://img.shields.io/badge/Download-APK-FF9800?style=for-the-badge&logo=android&logoColor=white)](https://github.com/rangopango/MyCalculator/raw/main/downloads/MyCalculator.apk)
+
+![Version 2.0.0](https://img.shields.io/badge/version-2.0.0-FF9800)
 ![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
 ![Material 3](https://img.shields.io/badge/Material%203-FF9800)
 
 </div>
+
+## Download and install
+
+1. On an Android phone (7.0 or newer), tap **[Download APK](https://github.com/rangopango/MyCalculator/raw/main/downloads/MyCalculator.apk)** (7.9 MB).
+2. Open the downloaded file. If Android asks, allow your browser to **install unknown apps**.
+3. Tap **Install**, then open **my calculator**.
+
+The APK isn't on Google Play, so Android may show a warning before installing. If you installed an earlier test build from Android Studio, uninstall it first. Its SHA-256 checksum is `877F1D773DF2BF32BDE16D6A02E0C21A38AD8002442C9B0FDF26218BDF4134A5`.
 
 ## Features
 

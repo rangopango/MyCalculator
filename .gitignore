@@ -1,5 +1,6 @@
 *.iml
 .gradle
+.kotlin/
 /local.properties
 /.idea/caches
 /.idea/libraries
@@ -13,3 +14,13 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Signing keys and built apps must never be committed
+*.jks
+*.keystore
+keystore.properties
+*.apk
+*.aab
+*.idsig
+# The published, signed app that the README links to
+!/downloads/MyCalculator.apk
